@@ -6,115 +6,115 @@
     - name: Átnevezve "Bitmonero"-ról "Monero"-ra
       date: 2014-04-23
       status: completed
-    - name: Helyreállás egy spam támadás után
+    - name: Helyreállás spam támadás után
       date: 2014-09-04
       status: completed
-    - name: Monero Research Lab Papers 1 and 2 published
+    - name: A Monero Kutatólaboratórium első és második dokumentációjának közzététele
       date: 2014-09-12
       status: completed
-    - name: Monero Research Lab Paper 3 published
+    - name: A Monero Kutatólaboratórium harmadik dokumentációjának közzététele
       date: 2014-09-25
       status: completed
-    - name: 0.8.8.6 released
+    - name: 0.8.8.6 verzió megjelenése
       date: 2014-12-08
       status: completed
 - year: 2015
   accomplishments:
-    - name: Monero Research Lab Paper 4 published
+    - name: A Monero Kutatólaboratórium negyedik dokumentációjának közzététele
       date: 2015-01-26
       status: completed
 - year: 2016
   accomplishments:
-    - name: 0.9.0 Hydrogen Helix released
+    - name: 0.9.0 Hydrogen Helix megjelenése
       date: 2016-01-01
       status: completed
-    - name: Monero Research Lab Paper 5 published
+    - name: A Monero Kutatólaboratórium ötödik dokumentációjának közzététele
       date: 2016-02-10
       status: completed
-    - name: Network Upgrade to require minimum ringsize of 3 on all transactions
+    - name: Hálózati frissítés: a minimális gyűrűméret 3-ra nő
       date: 2016-03-22
       status: completed
-    - name: 0.10.0 Wolfram Warptangent released
+    - name: 0.10.0 Wolfram Warptangent megjelenése
       date: 2016-09-18
       status: completed
-    - name: Network Upgrade to split coinbase into denominations
+    - name: Hálózati frissítés: coinbase tranzakció címletekre bontása
       date: 2016-09-21
       status: completed
-    - name: 0.10.1 Wolfram Warptangent released
+    - name: 0.10.1 Wolfram Warptangent megjelenése
       date: 2016-12-14
       status: completed
-    - name: Official GUI Beta 1 released
+    - name: Hivatalos GUI első béta kiadása
       date: 2016-12-22
       status: completed
 - year: 2017
   accomplishments:
-    - name: Network Upgrade to enable RingCT transactions
+    - name: Hálózati frissítés: RingCT tranzakciók engedélyezése
       date: 2017-01-05
       status: completed
-    - name: 0.10.2 released; critical vulnerability patched
+    - name: 0.10.2 megjelenése; kritikus sebezhetőség javítása
       date: 2017-02-22
       status: completed
-    - name: 0.10.3.1 Wolfram Warptangent released
+    - name: 0.10.3.1 Wolfram Warptangent megjelenése
       date: 2017-03-27
       status: completed
-    - name: Network Upgrade to adjust minimum blocksize and dynamic fee algorithm
+    - name: Hálózati frissítés: minimális blokkméret és dinamikus tranzakciós díj beállítása
       date: 2017-04-15
       status: completed
-    - name: Website redesigned
+    - name: Honlap dizájnváltása
       date: 2017-07-04
       status: completed
-    - name: 0.11.0.0 Helium Hydra released
+    - name: 0.11.0.0 Helium Hydra megjelenése
       date: 2017-09-07
       status: completed
-    - name: Fluffy blocks
+    - name: Pelyhes blokkok
       date: 2017-09-07
       status: completed
-    - name: GUI out of beta
+    - name: GUI kilép a béta fázisból
       date: 2017-09-10
       status: completed
-    - name: Network Upgrade to increase minimum ringsize to 5 and require RingCT transactions
+    - name: Hálózati frissítés: gyűrűméret minimális mérete 5-re változik és a RingCT tranzakciók kötelezővé válnak
       date: 2017-09-15
       status: completed
     - name: 0MQ/ZeroMQ
       date: September, 2017
       status: completed
-    - name: Subaddresses
+    - name: Alcímek bevezetése
       date: October, 2017
       status: completed
-    - name: Multi-signatures (multisig)
+    - name: Multi-aláírások (multisig)
       date: December, 2017
       status: completed
 - year: 2018
   accomplishments:
-    - name: New Proof of Work CryptoNoteV7
+    - name: Új munkaalapú konszenzus algoritmus: CryptoNoteV7
       date: 2018-04-06
       status: completed
-    - name: Network upgrade to increase minimal ringsize to 7, integrate multisig, subaddresses, and change PoW algo
+    - name: Hálózati frissítés: minimális gyűrűméret 7-re változik, multi-aláírások integrálása, alcímek, PoW algoritmus megváltoztatása
       date: 2018-04-06
       status: completed
-    - name: Getmonero.org Localization in French and Polish
+    - name: Getmonero.org fordítása francia és lengyel nyelvre
       date: 2018-04-24
       status: completed
-    - name: Ledger Hardware Wallets Support
+    - name: Ledger hardver tárca támogatása
       date: 2018-06-04
       status: completed
-    - name: Kovri alpha release
+    - name: Kovri alfa kiadása
       date: 2018-08-01
       status: completed
-    - name: Forum Funding System redesign
+    - name: Forum Funding System dizájnváltása
       date:
       status: ongoing
-    - name: Implementation of BulletProofs instead of RingCT to reduce transaction sizes
+    - name: BulletProof implementálása a RingCT leváltására, a tranzakciók méretének csökkentéséhez
       date:
       status: ongoing
-    - name: Kovri beta release
+    - name: Kovri béta kiadása
       date:
       status: upcoming
 - year: 2019
   accomplishments:
-    - name: Second-layer solutions for speed and scalability
+    - name: A skálázhatóság érdekében 2. rétegbeli megoldások alkalmazása
       date:
       status: upcoming
-    - name: Additional MRL research papers
+    - name: További Monero Kutatólaboratórium dokumentációk megjelenése
       date:
       status: upcoming
