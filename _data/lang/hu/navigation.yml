@@ -1,54 +1,54 @@
-- title: Get Started
+- title: Vágjunk bele
   subfolderitems:
-  - page: What is Monero?
+  - page: Mi is a Monero?
     url: get-started/what-is-monero
-  - page: Using
+  - page: Használata
     url: get-started/using
-  - page: Accepting
+  - page: Elfogadása
     url: get-started/accepting
-  - page: Contributing
+  - page: Hozzájárulás
     url: get-started/contributing
-  - page: Mining
+  - page: Bányászat
     url: get-started/mining
-  - page: FAQ
+  - page: GY.I.K.
     url: get-started/faq
-- title: Downloads
+- title: Letöltés
   url: downloads/
-- title: Recent News
+- title: Friss hírek
   subfolderitems:
-    - page: All Posts
+    - page: Összes poszt
       url: blog
-    - page: Missives
+    - page: Hírmondó
       url: blog/tags/monero%20missives.html
-    - page: Meeting Logs
+    - page: Találkozók
       url: blog/tags/dev%20diaries.html
-    - page: Releases
+    - page: Kiadások
       url: blog/tags/releases.html
-- title: Community
+- title: Közösség
   subfolderitems:
-  - page: Team
+  - page: Csapat
     url: community/team
   - page: Hangouts
     url: community/hangouts
-  - page: Sponsorships
+  - page: Szponzorok
     url: community/sponsorships
-  - page: Merchants
+  - page: Kereskedők
     url: community/merchants
-- title: Resources
+- title: Források
   subfolderitems:
   - page: About
     url: resources/about
-  - page: Roadmap
+  - page: Ütemterv
     url: resources/roadmap
-  - page: Research Lab
+  - page: Kutatólabor
     url: resources/research-lab
   - page: Moneropedia
     url: resources/moneropedia
-  - page: User Guides
+  - page: Használati útmutató
     url: resources/user-guides
-  - page: Developer Guides
+  - page: Útmutató fejlesztőknek
     url: resources/developer-guides
-  - page: Technical Specs
+  - page: Technológiai leírások
     url: technical-specs
-  - page: Library
+  - page: Könyvtár
     url: library
