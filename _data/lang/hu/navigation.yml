@@ -46,7 +46,7 @@
     url: resources/moneropedia
   - page: Használati útmutató
     url: resources/user-guides
-  - page: Útmutató fejlesztőknek
+  - page: Fejlesztői útmutató
     url: resources/developer-guides
   - page: Technológiai leírások
     url: technical-specs

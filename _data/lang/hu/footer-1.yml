@@ -1,18 +1,18 @@
-- title: Resources
+- title: Források
   subfolderitems:
-  - name: About Monero
+  - name: A Moneróról
     url: resources/about/
   - name: Moneropedia
     url: resources/moneropedia/
-  - name: Developer Guides
+  - name: Fejlesztői útmutató
     url: resources/developer-guides/
-  - name: User Guides
+  - name: Használati útmutató
     url: resources/user-guides/
-  - name: Library
+  - name: Könyvtár
     url: library
   - name: RSS Feed
     url: https://getmonero.org/feed.xml
-- title: IRC Channels
+- title: IRC Csatornák
   subfolderitems:
   - name: monero
     url: irc://chat.freenode.net/#monero
@@ -28,7 +28,7 @@
     url: irc://chat.freenode.net/#monero-translations
   - name: monero-hardware
     url: irc://chat.freenode.net/#monero-hardware
-- title: Community
+- title: Közösség
   subfolderitems:
   - name: Reddit
     url: https://reddit.com/r/monero
@@ -46,7 +46,7 @@
     url: https://openalias.org/
   - name: Kovri
     url: https://getkovri.org/
-  - name: Monero Research Lab
+  - name: Monero Kutatólabor
     url: resources/research-lab/
   - name: Monero Press Kit
     url: press-kit
